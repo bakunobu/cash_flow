@@ -1,0 +1,15 @@
+energy:
+  amount: -2000
+  frequency: every month on 16th
+gas:
+  amount: -10000
+  frequency: every six month on 1st
+mortgage:
+  amount: -20000
+  frequency: every month on 12th
+salary:
+  amount: 80000
+  frequency: every month on 5th
+utility:
+  amount: -4000
+  frequency: every month on 12th
