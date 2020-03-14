@@ -1,0 +1,6 @@
+income:
+  amount: 10000
+  frequency: every month until December 31st
+spending:
+  amount: -9500
+  frequency: every month until December 10th
